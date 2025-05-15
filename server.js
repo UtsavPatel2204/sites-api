@@ -1,3 +1,18 @@
+/********************************************************************************
+* WEB422 – Assignment 1
+*
+* I declare that this assignment is my own work in accordance with Seneca's
+* Academic Integrity Policy:
+*
+* https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+*
+* Name: Utsav Sureshbhai Patel Student ID: 142521236 Date: 15/05/2025
+*
+* Published URL on Vercel:
+*
+********************************************************************************/
+
+
 const express = require('express');
 const cors = require('cors');
 require('dotenv').config(); // Enables .env support
